@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kruger WildTrack Safaris - Home</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+        .nav-active {
+            border-bottom: 2px solid #84cc16;
+        }
+    </style>
+</head>
+<body class="bg-gray-100 text-gray-800">
+
+    <!-- Header & Navigation -->
+    <header class="bg-white shadow-md">
+        <div class="container mx-auto px-6 py-4">
+            <div class="flex items-center justify-between">
+                <div>
+                    <a href="index.html" class="text-2xl font-bold text-gray-800">Kruger WildTrack Safaris</a>
+                </div>
+                <nav class="hidden md:flex space-x-6">
+                    <a href="index.html" class="text-gray-600 hover:text-gray-800 nav-active">Home</a>
+                    <a href="ToursAndServices.html" class="text-gray-600 hover:text-gray-800">Tours & Services</a>
+                    <a href="aboutUs.html" class="text-gray-600 hover:text-gray-800">About Us</a>
+                    <a href="contactUs.html" class="text-gray-600 hover:text-gray-800">Contact Us</a>
+                </nav>
+                <div class="md:hidden">
+                    <button id="mobile-menu-button" class="text-gray-800 focus:outline-none">
+                        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7"></path></svg>
+                    </button>
+                </div>
+            </div>
+            <div id="mobile-menu" class="hidden md:hidden mt-4">
+                <a href="index.html" class="block py-2 text-gray-600 hover:text-gray-800">Home</a>
+                <a href="ToursAndServices.html" class="block py-2 text-gray-600 hover:text-gray-800">Tours & Services</a>
+                <a href="aboutUs.html" class="block py-2 text-gray-600 hover:text-gray-800">About Us</a>
+                <a href="contactUs.html" class="block py-2 text-gray-600 hover:text-gray-800">Contact Us</a>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main>
+        <!-- Hero Section -->
+        <div class="relative h-96 bg-cover bg-center" style="background-image: url('Images/FrontSunsetBanner.jpg');">
+            <div class="absolute inset-0 bg-black opacity-40"></div>
+            <div class="relative container mx-auto px-6 py-24 text-center text-white">
+                <h1 class="text-4xl md:text-5xl font-bold">Experience the Authentic African Bush</h1>
+                <p class="mt-4 text-lg">Unforgettable, tailor-made safaris in the heart of the Kruger National Park.</p>
+            </div>
+        </div>
+     
+
+        <!-- Introduction -->
+        <section class="py-16 bg-white">
+            <div class="container mx-auto px-6 text-center">
+                <h2 class="text-3xl font-bold mb-4">Welcome to Kruger WildTrack Safaris</h2>
+                <p class="max-w-3xl mx-auto text-lg">
+                    With over 40 years of combined experience hosting visitors from across the globe, we specialize in creating personalized safari adventures in the magnificent Lowveld of South Africa's Limpopo province. From airport pickup to luxury lodges, we handle every detail to ensure your trip is one you'll never forget.
+                </p>
+            </div>
+        </section>
+
+        <!-- Big 5 Section -->
+        <section class="py-16">
+            <div class="container mx-auto px-6">
+                <h2 class="text-3xl font-bold text-center mb-8">Discover the Big Five</h2>
+                <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-8">
+                    <!-- Lion -->
+                    <div class="text-center">
+                        <img src="images/MajesticLionFamily.jpg" alt="A majestic lion and his family in the Kruger National Park" class="rounded-lg shadow-lg mx-auto mb-4 h-40 w-full object-cover">
+                        <h3 class="text-xl font-semibold">Lion</h3>
+                    </div>
+                    <!-- Leopard -->
+                    <div class="text-center">
+                        <img src="images/LeoparddWithCubs.jpg" alt="A leopard and her two cubs walking on a tar road in the Kruger National Park" class="rounded-lg shadow-lg mx-auto mb-4 h-40 w-full object-cover">
+                        <h3 class="text-xl font-semibold">Leopard</h3>
+                    </div>
+                    <!-- Elephant -->
+                    <div class="text-center">
+                        <img src="images/ElephantWithCalf.jpg" alt="A mother elephant and her calf drinking at a river in the Kruger National Park" class="rounded-lg shadow-lg mx-auto mb-4 h-40 w-full object-cover">
+                        <h3 class="text-xl font-semibold">Elephant</h3>
+                    </div>
+                    <!-- Rhino -->
+                    <div class="text-center">
+                        <img src="images/KrugerRhino.jpg" alt="A majestic white rhino in the Kruger National Park" class="rounded-lg shadow-lg mx-auto mb-4 h-40 w-full object-cover">
+                        <h3 class="text-xl font-semibold">Rhino</h3>
+                    </div>
+                    <!-- Buffalo -->
+                    <div class="text-center">
+                        <img src="images/BuffaloHerd.jpg" alt="A herd of Cape buffalo in the Kruger National Park" class="rounded-lg shadow-lg mx-auto mb-4 h-40 w-full object-cover">
+                        <h3 class="text-xl font-semibold">Buffalo</h3>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Birdwatching Section -->
+        <section class="py-16 bg-white">
+            <div class="container mx-auto px-6">
+                <div class="flex flex-col md:flex-row items-center gap-8">
+                    <div class="md:w-1/2">
+                        <h2 class="text-3xl font-bold mb-4">A Birdwatcher's Paradise</h2>
+                        <p class="mb-4">
+                            The South African Lowveld is a premier destination for birdwatchers, boasting over 500 bird species. Its diverse habitats of savannas, forests, and wetlands create one of southern Africa’s richest birding regions. Spot rare and colorful species like the Lilac-breasted Roller, Southern Ground Hornbill, and the majestic African Fish Eagle.
+                        </p>
+                        <a href="ToursAndServices.html" class="bg-lime-500 text-white font-bold py-2 px-4 rounded-lg hover:bg-lime-600 transition duration-300">Explore Our Tours</a>
+                    </div>
+                    <div class="md:w-1/2">
+                        <img src="images/KrugerBirds.jpg" alt="A variety of colorful birds found in the Kruger National Park" class="rounded-lg shadow-lg">
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-gray-800 text-white py-8">
+        <div class="container mx-auto px-6 text-center">
+            <p>&copy; 2024 Kruger WildTrack Safaris. All Rights Reserved.</p>
+            <div class="mt-4">
+                <p>Website Visitors: <span id="visitor-counter">1000</span></p>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        // Mobile menu toggle
+        const mobileMenuButton = document.getElementById('mobile-menu-button');
+        const mobileMenu = document.getElementById('mobile-menu');
+        mobileMenuButton.addEventListener('click', () => {
+            mobileMenu.classList.toggle('hidden');
+        });
+
+        // Visitor counter
+        function updateCounter() {
+            // In a real application, you would fetch and update this from a server.
+            // For this demonstration, we'll just increment it in local storage.
+            let count = localStorage.getItem('visitorCount');
+            if (count === null) {
+                count = 1000;
+            } else {
+                count = parseInt(count, 10);
+            }
+            count++;
+            localStorage.setItem('visitorCount', count);
+            document.getElementById('visitor-counter').textContent = count;
+        }
+        
+        window.onload = updateCounter;
+    </script>
+
+</body>
+</html>

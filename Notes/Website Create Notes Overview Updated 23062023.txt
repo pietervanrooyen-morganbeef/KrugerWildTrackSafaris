@@ -1,0 +1,100 @@
+website Notes
+The Name is "Kruger WildTrack Safaris" 
+Please create a simple 4 page website for me for "Kruger wildTrack safaris" a new venture, 
+index. Html, aboutUs. Html, contactUs. Html and ToursAndServices. Html 
+pages, use similar websites please to create images relevant for each page using your capabliltiy to create a really eye catching 
+though "keep it simple" easy to use !! 
+
+the management have more than 40 years experience in overeas visitores from europe , america , south america .
+
+of places as well as the big 5 animals as images to create striking website? services will include "taior made tours" for your
+specific needs , and will include pick up from the airport to luxury desighend Stayovers. The tours 
+will mainl operate in the Lowveld of the Limpopo province South-Africa . 
+The Kruger National Park is one of Africa’s premier safari destinations and a must-visit for overseas travellers. 
+Stretching over 19,000 square kilometres, it offers an authentic African wildlife experience 
+with unparalleled biodiversity. Visitors have the chance to see the Big Five 
+(lion, leopard, elephant, rhino, and buffalo) along with hundreds of other species including giraffes, hippos, zebras, and over 500 types of birds.
+The park caters to all travel styles—from luxury lodges and guided game drives to budget-friendly 
+camps and self-drive safaris. Its well-maintained roads, rest camps, and abundant wildlife make 
+it accessible and enjoyable for families, couples, and solo adventurers alike.
+Kruger also offers scenic landscapes, from riverine forests and open plains to rocky outcrops and baobab trees. With warm hospitality, rich cultural heritage, and world-class facilities, Kruger National Park delivers a safe, unforgettable African safari experience for international visitors.The management team have more than 
+40 years experience in the hospitality industry to make your stay and touring the Kruger an sorounding places of 
+interest a one never to forget ? tell the customers to come and experience th big five as well as
+The South African Lowveld is a top destination for birdwatchers, home to over 500 bird species thanks 
+to its mix of savannas, forests, wetlands, and woodlands. This biodiversity makes it one of 
+southern Africa’s richest birding regions. Visitors can spot colourful and rare species such as the 
+Lilac-breasted Roller, Southern Ground Hornbill, African Fish Eagle, Pel’s Fishing Owl, 
+Purple-crested Turaco, and Bateleur Eagle.
+Top birding spots include Kruger National Park for year-round sightings, Blyde River Canyon for 
+raptors and forest birds, Mopani and Letaba for waterbirds, and Hoedspruit Wildlife Estate 
+for easy lodge-based birding. Whether you're an avid birder or just curious, 
+the Lowveld offers unforgettable birding experiences. Images of the Manage-ing member is on the
+MarlisePhoto.jpg and HeystekPhoto.jpg
+Add a counter at the botom of the index page starting at 1000
+Contact Details 
+The Web Usermust be able to send a email to joost007@mweb.co.za - this may change a later stage - 
+-- On the contact us page add  "i am not a robot when sending a email" the User 
+Current addres in 772 Jagarend street , Malelane , Limpopo , South Africa . 
+Heystek van Rooyen Cell Number 076 313 4963 Marlise 082 370 9189
+
+The Website info is at must be in basic HTML as far as possible with the ablity to send emails on the 
+contact page .... 
+The HTML  pages must be saved on  "...KrugerWildTrackSafaris" 
+Images must be saved on  "....KrugerWildTrackSafaris\Images" 
+
+Under ToursAndServices
+======================
+This appears to be a safari itinerary for a group of guests. Here's a breakdown of the schedule:
+
+Day 1
+1. Airport Pickup: Guests will be collected from Mpumalanga International Airport.
+2. Accommodation: Guests will be taken to Belvedere on the River.
+3. Dinner: A braai (barbecue) will be held down by the river, inside the Kruger fence. All drinks are included.
+
+Day 2
+1. Breakfast: Breakfast will be served at 6:30 am.
+2. Kruger National Park: Guests will enter the park through the Malelane Gate in a closed 4x4 vehicle for a day of game viewing.
+3. Lunch: Lunch will be at the Skukuza Golf Club.
+4. Afternoon: Guests will visit Lower Sabie for afternoon drinks, then proceed to Crocodile Bridge.
+5. Evening Game Drive: At 6:30 pm, guests will meet their guide and embark on an open game drive vehicle for an evening safari experience.
+6. Dinner: Dinner will be served in the park.
+
+This itinerary promises to be an exciting and memorable safari experience!
+Here's a breakdown of the itinerary for Day 3 and Day 4:
+
+Day 3
+1. Breakfast: 6:30 am at Belvedere-on-River.
+2. Kruger National Park: Enter through Malelane Gate and drive towards Paul Kruger Gate in a closed 4x4 vehicle.
+3. Mid-morning break: Coffee, tea, and snacks at Tsokwane.
+4. Exit and Lunch: Exit the park at Paul Kruger Gate and have lunch at Hoedspruit.
+5. Private Game Reserve: Leave Hoedspruit for a private game reserve on the Oliphants River.
+6. Dinner: Enjoy dinner next to the Oliphants River.
+
+Day 4
+1. Early Morning Coffee: 6:30 am coffee, rusk, and muesli.
+2. Guided Bush Walk: Embark on a 3-hour walk with an armed professional guide at 8:00 am (not 10:00 am as stated).
+3. Breakfast in the Bush: Enjoy breakfast next to the Elephant's River.
+
+This itinerary offers a mix of game viewing, scenic drives, and immersive bush experiences.
+
+Here's a continuation of the itinerary:
+
+Day 4 (continued)
+1. Return to Camp: Return to the camp on an open vehicle.
+2. Dinner: Enjoy a light meal at the camp.
+
+Day 4 (afternoon)
+1. Afternoon Game Drive: Embark on an afternoon game drive at 2:30 pm.
+2. Dinner: Enjoy dinner next to the river at 6:30 pm.
+
+Day 5
+1. Breakfast: Breakfast at Kruger International (presumably Kruger Mpumalanga International Airport).
+2. Departure: This marks the end of the safari itinerary, and guests will likely depart from the airport.
+
+This itinerary provides a relaxing conclusion to the safari experience, with a light dinner and a scenic afternoon game drive.
+
+Optional extra Days
+1) panoramic route
+2) full day in the park  Gamevieving on a open gameviewer
+3)Full day in Mozambique Maputo
+4) Full day in Swaziland

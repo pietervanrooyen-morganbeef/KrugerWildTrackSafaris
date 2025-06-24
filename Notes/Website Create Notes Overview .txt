@@ -1,0 +1,43 @@
+website Notes
+The Name is "Kruger WildTrack Safaris" 
+Please create a simple 4 page website for me for "Kruger wildTrack safaris" a new venture, 
+index. Html, aboutUs. Html, contactUs. Html and ToursAndServices. Html 
+pages, use similar websites please to create images relevant for each page using your capabliltiy to create a really eye catching 
+though "keep it simple" easy to use !! 
+
+the management have more than 40 years experience in overeas visitores from europe , america , south america .
+
+of places as well as the big 5 animals as images to create striking website? services will include "taior made tours" for your
+specific needs , and will include pick up from the airport to luxury desighend Stayovers. The tours 
+will mainl operate in the Lowveld of the Limpopo province South-Africa . 
+The Kruger National Park is one of Africa’s premier safari destinations and a must-visit for overseas travellers. 
+Stretching over 19,000 square kilometres, it offers an authentic African wildlife experience 
+with unparalleled biodiversity. Visitors have the chance to see the Big Five 
+(lion, leopard, elephant, rhino, and buffalo) along with hundreds of other species including giraffes, hippos, zebras, and over 500 types of birds.
+The park caters to all travel styles—from luxury lodges and guided game drives to budget-friendly 
+camps and self-drive safaris. Its well-maintained roads, rest camps, and abundant wildlife make 
+it accessible and enjoyable for families, couples, and solo adventurers alike.
+Kruger also offers scenic landscapes, from riverine forests and open plains to rocky outcrops and baobab trees. With warm hospitality, rich cultural heritage, and world-class facilities, Kruger National Park delivers a safe, unforgettable African safari experience for international visitors.The management team have more than 
+40 years experience in the hospitality industry to make your stay and touring the Kruger an sorounding places of 
+interest a one never to forget ? tell the customers to come and experience th big five as well as
+The South African Lowveld is a top destination for birdwatchers, home to over 500 bird species thanks 
+to its mix of savannas, forests, wetlands, and woodlands. This biodiversity makes it one of 
+southern Africa’s richest birding regions. Visitors can spot colourful and rare species such as the 
+Lilac-breasted Roller, Southern Ground Hornbill, African Fish Eagle, Pel’s Fishing Owl, 
+Purple-crested Turaco, and Bateleur Eagle.
+Top birding spots include Kruger National Park for year-round sightings, Blyde River Canyon for 
+raptors and forest birds, Mopani and Letaba for waterbirds, and Hoedspruit Wildlife Estate 
+for easy lodge-based birding. Whether you're an avid birder or just curious, 
+the Lowveld offers unforgettable birding experiences. Images of the Manage-ing member is on the
+MarlisePhoto.jpg and HeystekPhoto.jpg
+Add a counter at the botom of the index page starting at 1000
+Contact Details 
+The Web Usermust be able to send a email to joost007@mweb.co.za - this may change a later stage - 
+-- On the contact us page add  "i am not a robot when sending a email" the User 
+Current addres in 772 Jagarend street , Malelane , Limpopo , South Africa . 
+Heystek van Rooyen Cell Number 076 313 4963 Marlise 082 370 9189
+
+The Website info is at must be in basic HTML as far as possible with the ablity to send emails on the 
+contact page .... 
+The HTML  pages must be saved on  "...KrugerWildTrackSafaris" 
+Images must be saved on  "....KrugerWildTrackSafaris\Images" 
